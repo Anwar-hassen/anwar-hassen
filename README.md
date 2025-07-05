@@ -1,4 +1,4 @@
-# Anwar Hassen
+
 
 ### Education
 BCom in Data Science & Information Systems, Minor: Artificial Intelligence
