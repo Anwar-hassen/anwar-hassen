@@ -8,8 +8,9 @@ Red Badge - Security Assistant
 The Recruitment Network - Various Roles
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
+#### Technical Skills: Python, SQL
+#### Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
+  
 ## Education
 - BCom in Data Science & Information Systems, Minor: Artificial Intelligence | Victoria University of Wellingtion								       		
 - IBM Data Science Certificate 			        		
