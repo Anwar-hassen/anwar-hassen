@@ -6,6 +6,7 @@
 ## Education		        		
 - **BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
 - IBM Data Science Certificate
+
 ## Work Experience
 **Red Badge - Security Assistant (December 2022 – 2024)**
 - Assisted in event management and crowd control, ensuring safety.
