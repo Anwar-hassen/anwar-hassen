@@ -1,7 +1,0 @@
-img[alt="Logo"] {
-  width: 150px;   /* Increase to your preferred size */
-  height: auto;
-  border-radius: 50%; /* Makes it circular */
-  display: block;
-  margin: 0 auto; /* Optional: center it */
-}
