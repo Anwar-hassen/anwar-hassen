@@ -19,9 +19,13 @@
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Ethical Challenges and Fairness:
+Explored algorithmic bias and fairness principles. Evaluated ethical dilemmas in data-driven decision-making.
+### POAL Report: 
+Analysed IT governance and ethical challenges in a real-world automation project. Demonstrated understanding of fairness and accountability in information systems.
+### Image Classification Neural Network: 
+-	Built a convolutional neural network using PyTorch to classify image data. Applied concepts in supervised learning, training/testing evaluation, and regularization.
+### MPG Linear Regression & Clustering: 
+-	Used linear regression to uncover patterns in car fuel efficiency datasets using Python and sklearn. Used clustering to identify the optimal number of clusters using K-Means clustering by evaluating silhouette scores across different k values.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
