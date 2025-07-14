@@ -1,4 +1,3 @@
-<img src="Untitled design.png" alt="Logo" style="margin-top: -20px;" width="200">
 #### Technical Skills: Python, SQL
 #### Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
   
