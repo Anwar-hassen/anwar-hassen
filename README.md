@@ -32,10 +32,13 @@
 ## Projects
 #### Ethical Challenges and Fairness:
 - Explored algorithmic bias and fairness principles. Evaluated ethical dilemmas in data-driven decision-making.
+
 #### POAL Report: 
 - Analysed IT governance and ethical challenges in a real-world automation project. Demonstrated understanding of fairness and accountability in information systems.
+
 #### Image Classification Neural Network: 
 -	Built a convolutional neural network using PyTorch to classify image data. Applied concepts in supervised learning, training/testing evaluation, and regularization.
+
 #### MPG Linear Regression & Clustering: 
 -	Used linear regression to uncover patterns in car fuel efficiency datasets using Python and sklearn. Used clustering to identify the optimal number of clusters using K-Means clustering by evaluating silhouette scores across different k values.
 
