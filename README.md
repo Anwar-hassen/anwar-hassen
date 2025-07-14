@@ -1,11 +1,9 @@
-
-
 #### Technical Skills: Python, SQL
 #### Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
   
 ## Education		        		
-- **BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
-- **IBM Data Science Certificate**
+**BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
+**IBM Data Science Certificate**
 
 ## Skills
 - **Data Analysis:** Analyze and visualize datasets using Python (Pandas, Matplotlib, Seaborn) to uncover trends and insights.
@@ -18,7 +16,7 @@
 - **Adaptability:** Quickly adjust to new roles, tasks, and environments.
 - **Time Management:** Prioritize tasks and meet deadlines reliably.
 - **Work Ethic:** Maintain a motivated and positive mindset to contribute to team success.
-- 
+
 ## Work Experience
 **Red Badge - Security Assistant (December 2022 – 2024)**
 - Assisted in event management and crowd control, ensuring safety.
