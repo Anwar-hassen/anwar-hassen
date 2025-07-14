@@ -2,8 +2,9 @@
 #### Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
   
 ## Education		        		
-**BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
-**IBM Data Science Certificate**
+- **BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
+
+- **IBM Data Science Certificate**
 
 ## Skills
 - **Data Analysis:** Analyze and visualize datasets using Python (Pandas, Matplotlib, Seaborn) to uncover trends and insights.
