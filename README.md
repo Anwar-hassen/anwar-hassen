@@ -1,8 +1,9 @@
+<img src="Untitled design.png" alt="Logo" style="margin-top: -20px;" width="200">
 #### Technical Skills: Python, SQL
 #### Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
   
 ## Education		        		
-- **BCom in Data Science & Information Systems**, Minor: Artificial Intelligence | Victoria University of Wellington
+- **BCom in Data Science & Information Systems**, Minor: Artificial Intelligence 
 
 - **IBM Data Science Certificate**
 
